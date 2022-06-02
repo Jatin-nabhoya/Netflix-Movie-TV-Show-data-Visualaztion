@@ -2,7 +2,7 @@
 """
 Created on Sun May  8 11:42:33 2022
 
-@author: jtin nabhoya
+@author: jatin nabhoya
 """
 
 import numpy as np # linear algebra
